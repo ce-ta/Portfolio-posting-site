@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "山田 太郎 | ポートフォリオ",
+  title: "土田 朝陽 | ポートフォリオ",
   description: "個人ポートフォリオサイト",
 };
 
@@ -32,7 +32,7 @@ export default function RootLayout({
         <header className="border-b border-black/10 dark:border-white/10">
           <div className="mx-auto max-w-3xl px-6 py-4">
             <Link href="/" className="font-semibold">
-              山田 太郎
+              土田 朝陽
             </Link>
           </div>
         </header>
@@ -40,9 +40,6 @@ export default function RootLayout({
           {children}
         </main>
         <footer className="border-t border-black/10 dark:border-white/10">
-          <div className="mx-auto max-w-3xl px-6 py-6 text-sm text-black/60 dark:text-white/60">
-            © {new Date().getFullYear()} Taro Yamada
-          </div>
         </footer>
       </body>
     </html>

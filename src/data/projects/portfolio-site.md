@@ -2,7 +2,7 @@
 title: "ポートフォリオサイト"
 summary: "Next.jsとTailwind CSSで作った自己紹介サイト。Markdownで作品情報を管理。"
 tags: ["Next.js", "TypeScript", "Tailwind CSS"]
-link: "https://github.com/example/portfolio"
+link: "https://github.com/ce-ta/Portfolio-posting-site"
 ---
 
 ## 概要
