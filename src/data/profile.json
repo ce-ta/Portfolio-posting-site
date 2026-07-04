@@ -1,0 +1,9 @@
+{
+  "name": "土田 朝陽",
+  "title": "Webエンジニア",
+  "bio": "フロントエンドを中心に、TypeScriptとReactを使ったアプリ開発をしています。最近はClaude Codeを使った開発フローの練習中です。",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/ce-ta" },
+    { "label": "Email", "url": "template.gmail.com" }
+  ]
+}
